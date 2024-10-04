@@ -16,19 +16,16 @@
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/9541/97474395-5b9a9b80-194c-11eb-8ada-5fbe23fb37c9.png" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Selenium.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Webflow.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Kali-Dark.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40"/>
+
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussainazmat&show_icons=true&locale=en&layout=compact" alt="hussainazmat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal-chauhan&show_icons=true&locale=en&layout=compact" alt="hussainazmat" /></p>
