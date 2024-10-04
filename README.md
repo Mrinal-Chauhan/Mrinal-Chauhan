@@ -27,5 +27,3 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40"/>
 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal-chauhan&show_icons=true&locale=en&layout=compact" alt="hussainazmat" /></p>
