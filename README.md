@@ -27,3 +27,9 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40" height="40"/>
 
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
