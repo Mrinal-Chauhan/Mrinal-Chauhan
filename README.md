@@ -29,4 +29,4 @@
 </p>
 
 
-![snake gif](https://github.com/Mrinal-Chauhan/Mrinal-Chauhan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Mrinal-Chauhan/Mrinal-Chauhan/blob/output/github-contribution-grid-snake-dark.svg)
